@@ -180,6 +180,7 @@ export class HomePage implements OnInit {
         alert('Push action performed: ' + JSON.stringify(notification));
       }
     );
+ }
 }
 ```
 
